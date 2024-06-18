@@ -53,11 +53,11 @@ c) Usuń dokument, w którym ilość produktu jest mniejsza niż 5.
 
 ## Zadanie 2: Wyszukiwanie
 
-d) Znajdź wszystkie produkty z kategorii "Elektronika".
+a) Znajdź wszystkie produkty z kategorii "Elektronika".
 
-e) Znajdź wszystkie produkty, których producent pochodzi z USA.
+b) Znajdź wszystkie produkty, których producent pochodzi z USA.
 
-f) Znajdź wszystkie produkty, które mają ocenę recenzji równą 5.
+c) Znajdź wszystkie produkty, które mają ocenę recenzji równą 5.
 
 ## Zadanie 3: Agregacje
 
